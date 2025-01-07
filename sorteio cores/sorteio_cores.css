@@ -1,0 +1,22 @@
+body{
+    display: flex;
+    flex-flow: column nowrap;
+    align-items:center ;
+    justify-content: center;
+    min-height: 100vh;
+}
+button{
+    height: 50px;
+    width: 100px;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+}
+
+#paragrafo{
+    border-radius: 10px;
+    padding: 100px;
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
